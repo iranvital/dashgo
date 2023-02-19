@@ -25,7 +25,6 @@ export default function UserList(){
 
             <Link href="/users/create" passHref>
               <Button
-                as="a"
                 size="sm"
                 fontSize="sm"
                 colorScheme="pink"
@@ -61,7 +60,6 @@ export default function UserList(){
                 { isWideVersion && <Td>18 de fevereiro, 2023</Td> }
                 <Td>
                   <Button
-                    as="a"
                     size="sm"
                     fontSize="sm"
                     colorScheme="purple"
@@ -85,7 +83,6 @@ export default function UserList(){
                 { isWideVersion && <Td>18 de fevereiro, 2023</Td> }
                 <Td>
                   <Button
-                    as="a"
                     size="sm"
                     fontSize="sm"
                     colorScheme="purple"
@@ -109,7 +106,6 @@ export default function UserList(){
                 { isWideVersion && <Td>18 de fevereiro, 2023</Td> }
                 <Td>
                   <Button
-                    as="a"
                     size="sm"
                     fontSize="sm"
                     colorScheme="purple"
